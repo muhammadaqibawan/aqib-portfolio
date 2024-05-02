@@ -11,7 +11,7 @@ image: "/eloomi.jpg"
 
 ## Experience with Eloomi
 
-For the past year and a half, I've had the privilege of collaborating on projects like Eloomi as a representative of Ciklum, working closely with their dedicated teams. Within the customer success team at Eloomi, we're tasked with delivering highly sought-after features requested by clients, often within tight deadlines.
+For the past year and a half, I've have been working on project Eloomi as a representative of Ciklum, working closely with their dedicated teams. Within the customer success team at Eloomi, we're tasked with delivering highly sought-after features requested by clients, often within tight deadlines.
 
 ## Technologies Used
 

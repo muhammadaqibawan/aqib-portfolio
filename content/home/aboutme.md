@@ -7,12 +7,12 @@ description: "I am Aqib"
 
 <br/>
 
-### I am Aqib, with a Bachelor's degree in Software Engineering and over four and a half years of professional experience, I possess expertise in a wide array of technologies. My primary focus has been on frontend development, where I excel in Vue.js, React.js, TypeScript, Nuxt.js, Node.js, Socket.IO, WebRTC, Web Components & Design Tokens, jQuery, Ajax, Storybook, HTML, CSS/Less, and Bootstrap.
+### I am Aqib, a software engineer with 4 and half years of experience in the software industry. My focus has been full-stack web development with Vue.js, React.js, Typescript , Node.js & MongoDB.
 
 <br/>
 
-##### I've worked on projects for major companies like <b>Eloomi</b> and <b>Psytech International</b>. When I get free time, I publish technical articles on Medium and LinkedIn.
+##### I wrote and maintained several different projects while working for different software companies like <b>Eloomi</b>, <b>Psytech</b>, <b>Ciklum</b> and <b>EyeSmarty</b>. I have the expereince of working in-house with the team and as well as remote.
 
 <br/>
 
-##### I enjoy learning about new development in IT, spending time with family & friends.
+##### I enjoy learning about new technologies, Writing articles on LinkedIn and Medium and spending time with family & friends.
